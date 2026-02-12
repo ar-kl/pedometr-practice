@@ -7,3 +7,4 @@ Color white = const Color(0xFFFFFFFF);
 Color blue = const Color(0xFF4664FF);
 Color blueLight = const Color(0xFF778DFF);
 Color grey = const Color(0xFF9F9F9F);
+Color greyLight = const Color(0xFFF9F9F9);
